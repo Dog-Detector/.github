@@ -1,7 +1,7 @@
 ---
 # 맹탐정: 맹견탐지 지능형 CCTV(Dog Muzzle Detection System)
 
-**Collaborator : 장경준, 이범희, 최윤석, 권상혁**
+## Collaborator : 장경준, 이범희, 최윤석, 권상혁
 
 ## 
 ## 1. 프로젝트 개요
